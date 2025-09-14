@@ -1,0 +1,33 @@
+# Environnements virtuels
+venv
+.env
+*.env
+
+# Caches Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+*.egg
+*.egg-info
+.eggs/
+
+# Logs
+*.log
+
+# Base de données locale
+*.sqlite3
+
+# Static / media générés (si Django)
+media/
+staticfiles/
+
+# Configs IDE
+.vscode/
+.idea/
+*.swp
+
+# Git
+.git
+.gitignore
